@@ -8,3 +8,6 @@ should be able to manage both branches and documentation, issues etc.
 
 ## Pull requests
 Can pull requests get the extra change that someone makes to a branch? or are they locked to a particular (edit/revision)
+
+## merge testing
+when someone edits in the same place, what happens?
